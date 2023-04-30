@@ -1,0 +1,31 @@
+body{background: #cbadf1c4;}
+
+h2{text-align: center; position: relative; bottom: 40px; font-size: 3rem; font-family: calibri;}
+
+/* Navigation Bar */
+
+header nav ul{display: flex; justify-content: center; align-items: center; font-family: calibri;}
+
+header nav ul li{list-style: none; margin: 30px;}
+
+header nav ul li a:hover{background: white; color: red; padding: 5px 15px; border-radius: 25px;}
+
+header nav ul li a{color: black; text-decoration: none; font-size: 2rem;}
+
+/* Home Section */
+
+header nav .mainpic{position: relative; bottom: 0px; right: 10px; display: flex; justify-content: center; align-items: center;}
+
+header nav .mainheading{display: flex; justify-content: center; align-items: center;}
+
+header nav .mainheading h3{font-size: 2.6rem; font-family: calibri; position: relative; bottom: 0px;}
+
+header nav .mainheading p{font-size: 1.8rem; font-family: calibri; position: relative; bottom: 50px; padding: 0px 400px;}
+
+header nav .mainheadings p{display: flex; justify-content: center; align-items: center;font-size: 1.8rem; font-family: calibri; position: relative; bottom: 90px; padding: 0px 530px;}
+
+section{display: flex; justify-content: center; align-items: center; position: relative; bottom: 80px;}
+
+section .items{margin-top: 10px;}
+
+section .items img{width: 350px; height: 350px; border-radius: 50px; border: 1px inset black; margin: 10px;}
