@@ -8,9 +8,10 @@ header nav ul{display: flex; justify-content: center; align-items: center; font-
 
 header nav ul li{list-style: none; margin: 30px;}
 
+header nav ul li a{color: black; text-decoration: none; font-size: 2rem;}
+
 header nav ul li a:hover{background: white; color: red; padding: 5px 15px; border-radius: 25px;}
 
-header nav ul li a{color: black; text-decoration: none; font-size: 2rem;}
 
 /* Home Section */
 
@@ -20,9 +21,7 @@ header nav .mainheading{display: flex; justify-content: center; align-items: cen
 
 header nav .mainheading h3{font-size: 2.6rem; font-family: calibri; position: relative; bottom: 0px;}
 
-header nav .mainheading p{font-size: 1.8rem; font-family: calibri; position: relative; bottom: 50px; padding: 0px 400px;}
-
-header nav .mainheadings p{display: flex; justify-content: center; align-items: center;font-size: 1.8rem; font-family: calibri; position: relative; bottom: 90px; padding: 0px 530px;}
+header nav .mainheading p{font-size: 1.8rem; font-family: calibri; position: relative; bottom: 50px; padding: 0px 400px; text-align: center;}
 
 section{display: flex; justify-content: center; align-items: center; position: relative; bottom: 80px;}
 
