@@ -1,0 +1,52 @@
+@media screen and (max-width: 450px){
+
+header nav ul li a{text-decoration: none; padding: 10px; font-size: 1rem; font-family: calibri; color: white; transition: 0.3s linear all;}
+
+section .homesection .line1 h1{color: white; padding-top: 20px; font-size: 3rem;}
+
+section .homesection .line2 p{display: none;}
+
+section .homesection .line2 .select1{margin: 10px; background:rgb(49, 48, 48); color: white; font-size: 0.9rem; font-weight: 500; border-radius: 4px; border: none; width: 100px; height: 30px; font-family: calibri;}
+
+section .homesection .line2 input{width: 200px; height: 30px; border-radius: 4px; border: none; font-size: 0.9rem; padding-left: 10px;}
+
+section .homesection .line2 .select2{background: rgb(223, 220, 238); height: 30px; border: none; border-radius: 3px; font-size: 0.9rem; font-family: calibri; font-weight: 700; padding-left: 10px; margin-right: 0px;}
+
+section .homesection .line2 a h1{font-size: 0.9rem;}
+
+section .homesection .home5 h1{font-size: 3rem;}
+
+section .homesection .home6 h1{font-size: 3rem;}
+
+section .homesection .home7 button{background:rgb(49, 48, 48); color: white; font-size: 1.2rem; font-family: calibri; padding: 10px 25px; border: none; border-radius: 6px; font-weight: bolder; cursor: pointer; margin-bottom: 60px;}
+
+section .homesection .home7 button:hover{background-color:#ca4c0d; transition: 0.3s linear all;}
+
+/* ----------------------------------------------------------------------------------------------- */
+
+section h1{font-size: 3rem; font-family: calibri; text-align: center;}
+
+section .projects1{display: block; align-items: center; justify-content: center;}
+
+section .projects1 .pr1{display: block; background: white; margin: 40px; padding: 20px 30px;}
+
+section .projects1 .pr1 h2{text-align: center; font-family: calibri; font-size: 1.9rem;}
+
+section .projects1 .pr1 .flex{display: flex; align-items: center; justify-content: center;}
+
+section .projects1 .pr1 .flex a{text-decoration: none;}
+
+section .projects1 .pr1 .flex h3{font-size: 1.3rem; font-family: calibri; font-weight: 400; padding-bottom: 40px; color: orangered;}
+
+section .projects1 .pr1 .flex h4{font-size: 1.3rem; font-family: calibri; font-weight: 400; padding-bottom: 40px;}
+
+section .projects1 .pr1 .flex h1{font-size: 1.2rem; font-family: calibri; font-weight: 900; padding-top: 40px; position: relative; right: 60px; transition: 0.3s linear all; color: orangered;}
+
+section .projects1 .pr1 .flex h1:hover{color: black;}
+
+section .projects1 .pr1 .flex h5{font-size: 1.2rem; font-family: calibri; font-weight: 900; padding-top: 40px; position: relative; left: 60px; color: black; transition: 0.3s linear all;}
+
+section .projects1 .pr1 .flex h5:hover{color: orangered;}
+
+section .projects1 .pr1 img{height: 320px; width: 250px;}
+}
